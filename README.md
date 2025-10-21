@@ -1,6 +1,6 @@
 # SourceQ Engine
 
-**Status:** Work In Progress 🚧  
+**Status:** Work **NOT**In Progress 🚧  
 **Type:** 3D Game Engine  
 **Platform:** Windows (demo builds), future multi-platform support  
 **Planned Games:** Quanto (2027), Prequel (TBA)  
