@@ -3,7 +3,7 @@
 **Status:** Work **NOT** In Progress (Development has been stopped) 🚧  
 **Type:** 3D Game Engine  
 **Platform:** Windows (demo builds), future multi-platform support  
-**Planned Games:** Quanto (2027), Prequel (TBA)  
+**Planned Games:** Quanto (2027-2028), Prequel (TBA)  
 **Repository Purpose:** Demo, architecture showcase, development progress  
 **Source Code:** Closed / reworked version only  
 
@@ -42,10 +42,10 @@ Core design goals:
 ## Development Timeline
 | Year | Milestone |
 |------|-----------|
-| 2025 | Engine development started |
-| 2025 | Basic physics and renderer demo completed |
-| 2026 | Prototype games and test levels created |
-| 2027 | Planned release of **Quanto** |
+| 2027 | Engine development started |
+| mid 2027 | Basic physics and renderer demo completed |
+| 2028 | Prototype games and test levels created |
+| 2029 | Planned release of **Quanto** |
 | TBA  | **Prequel** release (date unknown) |
 
 ---
@@ -68,8 +68,8 @@ Core design goals:
 ## Planned Games
 
 ### Quanto
-- Genre: [insert genre]  
-- Visual Style: [insert style]  
+- Genre: - 
+- Visual Style: -
 - Status: Work In Progress  
 - Notes: Built using SourceQ Engine; demo levels planned; features renderer, physics, lighting modules.
 
